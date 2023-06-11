@@ -2,7 +2,7 @@
 
 CUADERNILLOS DE EJERCITACIÓN
 
-Ejercicio estructura condicional simple:
+# Ejercicio estructura condicional simple:
 
 1. Realice un programa que solicite dos letras ingresadas por el usuario y
 verifique si son iguales o no, mostrando un mensaje.
@@ -17,7 +17,7 @@ de cambio quiere, si de dólares a pesos o viceversa.
 6. Realice un programa donde el usuario ingrese su edad. Si es mayor de
 16 años, muestre un mensaje diciendo “puede votar”, sino “no vota”.
 
-Ejercicios estructura condicional compuesto (IF anidados)
+# Ejercicios estructura condicional compuesto (IF anidados)
 
 1. Introducir los lados de un triángulo y visualizar por pantalla si dicho
 triángulo es equilátero, isósceles o escaleno.
@@ -32,3 +32,17 @@ determine si es par o impar.
 4. Confeccione un programa que pida un número del 1 al 7 y diga el día de
 la semana correspondiente.
 5. Realice un programa que pida un número del 1 al 12 y diga el nombre
+
+# Ejercicios estructuras repetitivas y estructuras condicionales.
+
+1. Realice un programa que lea 4 números y diga cuántos son pares y
+cuantos impares y devuelva la sumatoria de los pares.
+2. Leer 10 números y obtener la cantidad de mayores y la cantidad de
+menores a 100, cuál es el número máximo y cuál es el número mínimo.
+3. Ingresar las edades y el sexo de 15 personas y determinar cuántas son
+mujeres, cuántos varones, cuántos mayores de edad y cuántos
+menores de edad.
+4. Leer 10 números y mostrar solamente los números positivos, y su
+sumatoria.
+5. Leer 15 números negativos y convertirlos a positivos e imprimir dichos
+números.
