@@ -9,11 +9,13 @@ cotizaciondolar = 258
 if tipodeconversion == "1":
     dolares = float(input("Ingrese la cantidad en dólares: "))
     pesos = dolares * cotizaciondolar  
-    print(str(dolares) + " dólares equivalen a " + str(pesos) + " pesos")   
+    print(dolares, " dólares equivalen a ", pesos, " pesos")   
 elif tipodeconversion == "2":
     pesos = float(input("Ingrese la cantidad en pesos: "))
     dolares = pesos / cotizaciondolar   
-    print(str(pesos) +  " pesos equivalen a " + str(dolares) + "dólares")
+    print(pesos, " pesos equivalen a ", dolares, "dólares")
 else:
     print("Opción incorrecta. Ingrese 1 o 2.")
+
+
 
